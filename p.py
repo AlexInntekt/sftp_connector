@@ -1,11 +1,11 @@
 
 
-hostname = "spaceport.avproiect.com"
+hostname = "spaceport.blah.blah"
 username = "alex"
 password = ""
 path = '/home/alex/cargo'
  
-#srv = pysftp.Connection(host="spaceport.avproiect.com", username="alex", private_key="/home/alex/.ssh/id_rsa")
+#srv = pysftp.Connection(host="spaceport.blahblah", username="alex", private_key="location/of/id_rsa")
 
 import paramiko
 
